@@ -1,4 +1,4 @@
-package com.swift.ipla;
+package com.twoolab.camel;
 
 import org.apache.camel.builder.RouteBuilder;
 

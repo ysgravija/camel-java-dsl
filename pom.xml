@@ -4,8 +4,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.swift.ipla</groupId>
-  <artifactId>UUIDGenerator</artifactId>
+  <groupId>com.twoolab.camel</groupId>
+  <artifactId>CamelExample</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
 
@@ -89,7 +89,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.6.0</version>
         <configuration>
-          <mainClass>com.swift.ipla.MainApp</mainClass>
+          <mainClass>com.twoolab.camel.MainApp</mainClass>
           <includePluginDependencies>false</includePluginDependencies>
         </configuration>
       </plugin>
